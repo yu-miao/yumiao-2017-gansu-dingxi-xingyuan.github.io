@@ -1,3 +1,7 @@
+---
+title: 写给彬彬老师
+---
+
 <link href="style.css" rel="stylesheet" >
 
 # 写给彬彬老师
