@@ -1,6 +1,6 @@
 <link href="style.css" rel="stylesheet" >
 
-## 写给彬彬老师
+# 写给彬彬老师
 
 ---
 
