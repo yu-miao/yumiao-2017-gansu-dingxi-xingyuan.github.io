@@ -1,9 +1,22 @@
+<link href="style.css" rel="stylesheet" >
+
 # 愿你走出半生,归来仍是少年 ------致2017年甘肃队
 
 <h3 align="center">
-作者:  <a href="//twesix.cn">孟政元</a>
+作者:  <a href="//twesix.cn" target="_blank">孟政元</a>
 </h3>
-<link href="style.css" rel="stylesheet" >
+
+---
+
+## 队伍成员
+
+禹润泽(队长)
+
+孟政元(后勤副队), 刘泓池(财务副队), 云嵩棋(教学副队)
+
+杨彬, 邱越姿, 丁琪, 陈颖琦, 罗芮琳, 金旭雨
+
+罗永臻, 柴旭, 张嘉成, 苏珂仝, 赵凯悦
 
 ---
 
@@ -57,6 +70,12 @@
       支教第15天,你我就各奔东西
     - ### [29 日](daily/2017/07/29){:target="_blank"}
       支教结束之后第1天
+
+---
+
+## 支教期间拍摄的视频
+
+## [点我跳转到播放页面](video){:target="_blank"}
 
 ---
 
