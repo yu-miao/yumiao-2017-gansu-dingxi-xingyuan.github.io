@@ -24,58 +24,58 @@
 
 - ## 2017 年
   - ### 05 月
-    - ### [27 日](daily/2017/05/27){:target="_blank"}
+    - ### [27 日](pages/2017/05/27){:target="_blank"}
       出发前合照
   - ### 06 月
-    - ### [04 日](daily/2017/06/04){:target="_blank"}
+    - ### [04 日](pages/2017/06/04){:target="_blank"}
       出发前最后一次开会
   - ### 07 月
-    - ### [10 日](daily/2017/07/10){:target="_blank"}
+    - ### [10 日](pages/2017/07/10){:target="_blank"}
       出发前一天晚上
-    - ### [11 日](daily/2017/07/11){:target="_blank"}
+    - ### [11 日](pages/2017/07/11){:target="_blank"}
       从长春出发
-    - ### [12 日](daily/2017/07/12){:target="_blank"}
+    - ### [12 日](pages/2017/07/12){:target="_blank"}
       晚上8点到达西安,向定西进发
-    - ### [13 日](daily/2017/07/13){:target="_blank"}
+    - ### [13 日](pages/2017/07/13){:target="_blank"}
       早上6点到达定西,9点坐客车前往杏园乡
-    - ### [14 日](daily/2017/07/14){:target="_blank"}
+    - ### [14 日](pages/2017/07/14){:target="_blank"}
       支教第1天
-    - ### [15 日](daily/2017/07/15){:target="_blank"}
+    - ### [15 日](pages/2017/07/15){:target="_blank"}
       支教第2天
-    - ### [16 日](daily/2017/07/16){:target="_blank"}
+    - ### [16 日](pages/2017/07/16){:target="_blank"}
       支教第3天
-    - ### [17 日](daily/2017/07/17){:target="_blank"}
+    - ### [17 日](pages/2017/07/17){:target="_blank"}
       支教第4天
-    - ### [18 日](daily/2017/07/18){:target="_blank"}
+    - ### [18 日](pages/2017/07/18){:target="_blank"}
       支教第5天
-    - ### [19 日](daily/2017/07/19){:target="_blank"}
+    - ### [19 日](pages/2017/07/19){:target="_blank"}
       支教第6天
-    - ### [20 日](daily/2017/07/20){:target="_blank"}
+    - ### [20 日](pages/2017/07/20){:target="_blank"}
       支教第7天
-    - ### [21 日](daily/2017/07/21){:target="_blank"}
+    - ### [21 日](pages/2017/07/21){:target="_blank"}
       支教第8天
-    - ### [22 日](daily/2017/07/22){:target="_blank"}
+    - ### [22 日](pages/2017/07/22){:target="_blank"}
       支教第9天
-    - ### [23 日](daily/2017/07/23){:target="_blank"}
+    - ### [23 日](pages/2017/07/23){:target="_blank"}
       支教第10天
-    - ### [24 日](daily/2017/07/24){:target="_blank"}
+    - ### [24 日](pages/2017/07/24){:target="_blank"}
       支教第11天
-    - ### [25 日](daily/2017/07/25){:target="_blank"}
+    - ### [25 日](pages/2017/07/25){:target="_blank"}
       支教第12天
-    - ### [26 日](daily/2017/07/26){:target="_blank"}
+    - ### [26 日](pages/2017/07/26){:target="_blank"}
       支教第13天
-    - ### [27 日](daily/2017/07/27){:target="_blank"}
+    - ### [27 日](pages/2017/07/27){:target="_blank"}
       支教第14天,晚上与孩子们深情告别
-    - ### [28 日](daily/2017/07/28){:target="_blank"}
+    - ### [28 日](pages/2017/07/28){:target="_blank"}
       支教第15天,你我就各奔东西
-    - ### [29 日](daily/2017/07/29){:target="_blank"}
+    - ### [29 日](pages/2017/07/29){:target="_blank"}
       支教结束之后第1天
 
 ---
 
 ## 支教期间拍摄的视频
 
-## [点我跳转到播放页面](video){:target="_blank"}
+## [点我跳转到播放页面](pages/video){:target="_blank"}
 
 ---
 
