@@ -1,4 +1,4 @@
-<link href="style.css" rel="stylesheet" >
+<link href="css/style.css" rel="stylesheet" >
 
 # 愿你走出半生,归来仍是少年 ------致2017年甘肃队
 
