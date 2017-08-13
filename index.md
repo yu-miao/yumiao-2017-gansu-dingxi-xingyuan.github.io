@@ -2,6 +2,11 @@
 
 # 愿你走出半生,归来仍是少年 ------致2017年甘肃队
 
+队歌： 你曾是少年
+
+<audio src="https://yumiao.static.twesix.cn/audio/你曾是少年_S.H.E.mp3" controls preload style="width: 100%; ">
+</audio>
+
 <h3 align="center">
 作者:  <a href="//twesix.cn" target="_blank">孟政元</a>
 </h3>
