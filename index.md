@@ -25,6 +25,23 @@
 
 ---
 
+## “苏雨彬”组合 [笑哭]
+
+![](https://yumiao.static.twesix.cn/image/2017/07/21/img_13.JPG)
+
+成名曲： 宠爱
+
+<audio src="https://yumiao.static.twesix.cn/audio/TFBOYS - 宠爱.mp3" controls preload style="width: 100%; ">
+</audio>
+
+---
+
+## “四人帮”， “银河护卫队”
+
+![](https://yumiao.static.twesix.cn/image/2017/07/18/IMG_0850.JPG)
+
+---
+
 ## 按照日期归档
 
 - ## 2017 年
