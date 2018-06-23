@@ -1,3 +1,5 @@
+<script src="js/lazysize.js"></script>
+<script src="js/head.js"></script>
 <link href="css/style.css" rel="stylesheet" >
 
 # 愿你走出半生,归来仍是少年 ------致2017年甘肃队
@@ -130,3 +132,5 @@
 孟政元
 
 2017年7月28日
+
+<script src="js/x-oss-process.js"></script>
