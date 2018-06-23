@@ -29,7 +29,7 @@
 
 ## “苏雨彬”组合 [笑哭]
 
-![](https://yumiao-static.oss-cn-beijing.aliyuncs.com/image/2017/07/21/img_13.JPG)
+![](https://yumiao-static.oss-cn-beijing.aliyuncs.com/image/2017/07/21/img_13.JPG?x-oss-process=style/small)
 
 成名曲： 宠爱
 
@@ -40,7 +40,7 @@
 
 ## “四人帮”， “银河护卫队”
 
-![](https://yumiao-static.oss-cn-beijing.aliyuncs.com/image/2017/07/18/IMG_0850.JPG)
+![](https://yumiao-static.oss-cn-beijing.aliyuncs.com/image/2017/07/18/IMG_0850.JPG?x-oss-process=style/small)
 
 ---
 
