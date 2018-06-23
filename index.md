@@ -4,11 +4,11 @@
 
 队歌： 你曾是少年
 
-<audio src="https://yumiao.static.twesix.cn/audio/你曾是少年_S.H.E.mp3" controls preload style="width: 100%; ">
+<audio src="https://yumiao-static.oss-cn-beijing.aliyuncs.com/audio/你曾是少年_S.H.E.mp3" controls preload style="width: 100%; ">
 </audio>
 
 <h3 align="center">
-作者:  <a href="//twesix.cn" target="_blank">孟政元</a>
+作者:  <a href="http://www.twesix.cn" target="_blank">孟政元</a>
 </h3>
 
 ---
@@ -27,18 +27,18 @@
 
 ## “苏雨彬”组合 [笑哭]
 
-![](https://yumiao.static.twesix.cn/image/2017/07/21/img_13.JPG)
+![](https://yumiao-static.oss-cn-beijing.aliyuncs.com/image/2017/07/21/img_13.JPG)
 
 成名曲： 宠爱
 
-<audio src="https://yumiao.static.twesix.cn/audio/TFBOYS - 宠爱.mp3" controls preload style="width: 100%; ">
+<audio src="https://yumiao-static.oss-cn-beijing.aliyuncs.com/audio/TFBOYS - 宠爱.mp3" controls preload style="width: 100%; ">
 </audio>
 
 ---
 
 ## “四人帮”， “银河护卫队”
 
-![](https://yumiao.static.twesix.cn/image/2017/07/18/IMG_0850.JPG)
+![](https://yumiao-static.oss-cn-beijing.aliyuncs.com/image/2017/07/18/IMG_0850.JPG)
 
 ---
 
